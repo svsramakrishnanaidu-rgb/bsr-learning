@@ -1,69 +1,103 @@
 <div align="center">
 
-# Hello, I'm Sandu Venkata Siva Ramakrishna 👋
+<img alt="Build with purpose — AI, software and digital innovation" width="100%" src="https://raw.githubusercontent.com/svsramakrishnanaidu-rgb/bsr-learning/main/docs/assets/portfolio-header.svg"/>
 
-### AI Applications • Full-Stack Web Development • Human-Centered Design
+# Hi, I'm Sandu Venkata Siva Ramakrishna 👋
 
-**Building thoughtful digital experiences that combine useful AI features with modern web technology.**
+### AI Applications · Software Engineering · Digital Product Design
 
-<a href="https://github.com/svsramakrishnanaidu-rgb/leo-ai"><img alt="Explore LEO.AI" src="https://img.shields.io/badge/FEATURED_PROJECT-LEO.AI-0f766e?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://github.com/svsramakrishnanaidu-rgb"><img alt="GitHub" src="https://img.shields.io/badge/GITHUB-PROFILE-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
+**I build practical, visually thoughtful applications that turn complex ideas into approachable user experiences.**
 
+<p>
+<a href="https://www.linkedin.com/in/s-v-s-ramakrishna-naidu-39611a444/"><img alt="LinkedIn" src="https://img.shields.io/badge/CONNECT-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/svsramakrishnanaidu-rgb?tab=repositories"><img alt="GitHub repositories" src="https://img.shields.io/badge/EXPLORE-GitHub%20Projects-14171c?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/svsramakrishnanaidu-rgb/bsr-learning/blob/main/PROJECTS.md"><img alt="Full project catalog" src="https://img.shields.io/badge/VIEW-Portfolio-0F766E?style=for-the-badge"/></a>
+</p>
 </div>
 
 ---
 
-## About me
+## ✨ A little about me
 
-I'm interested in **AI-assisted applications, frontend engineering, accessible design, and real-world problem solving**.
+- 🧠 Interested in **AI-assisted products**, real-world problem solving and responsible AI integration.
+- 💻 Building with **React, TypeScript, Flutter and Dart**.
+- 🎨 Focused on polished user interfaces, usability and accessible experiences.
+- 🌱 Learning through hands-on projects in **civic technology, agriculture, personal finance and digital wellness**.
+- 🤝 Open to professional collaboration, thoughtful feedback and learning opportunities.
 
-- 🔭 Currently showcasing **[LEO.AI](https://github.com/svsramakrishnanaidu-rgb/leo-ai)**, an independent AI-powered civic assistance prototype.
-- 🌱 Exploring secure AI integration, TypeScript development, inclusive UI/UX, and multilingual experiences.
-- 🧩 Enjoy working on practical projects involving **agriculture, healthcare, civic technology, and digital innovation**.
-- 🤝 Open to collaboration, code reviews, and opportunities to learn with other developers.
-
-## Tech stack
+## 🛠️ Technologies I use
 
 <div align="center">
-<img alt="React, TypeScript, JavaScript, Tailwind CSS, Vite, HTML, CSS, Git and GitHub" src="https://skillicons.dev/icons?i=react,ts,js,tailwind,vite,html,css,git,github&perline=9" />
+<img alt="Flutter, Dart, React, TypeScript, JavaScript, Tailwind, Vite, HTML, CSS, Git and GitHub" src="https://skillicons.dev/icons?i=flutter,dart,react,ts,js,tailwind,vite,html,css,git,github&perline=11"/>
 </div>
 
-| Area | Tools and technologies |
+| Area | Tools |
 | --- | --- |
-| **Frontend** | React · TypeScript · JavaScript · HTML · CSS |
-| **Development** | Vite · Tailwind CSS · Git · GitHub |
-| **UI & Visualization** | Framer Motion · Leaflet · Recharts |
-| **AI exploration** | Groq API integration · AI-assisted interfaces · Local rule-based fallbacks |
+| **App development** | Flutter · Dart · Provider |
+| **Web development** | React · TypeScript · JavaScript · Vite · Tailwind CSS |
+| **Visualization & UX** | Framer Motion · Leaflet · Recharts · FL Chart |
+| **Tools & practices** | Git · GitHub · project documentation · automated checks |
+| **AI exploration** | Groq integrations · conversational interfaces · AI-assisted user flows |
 
-## Featured work
+## 🚀 Featured GitHub projects
 
-### 🏙️ [LEO.AI — Civic assistance prototype](https://github.com/svsramakrishnanaidu-rgb/leo-ai)
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/svsramakrishnanaidu-rgb/leo-ai"><img width="100%" alt="LEO.AI" src="https://raw.githubusercontent.com/svsramakrishnanaidu-rgb/leo-ai/main/docs/assets/leo-banner.svg"/></a>
+<h3>LEO.AI · Civic assistance</h3>
+<p>React/TypeScript prototype for reporting and understanding local civic problems, with AI-assisted categorization, map exploration, and three-language support.</p>
+<p><b>React · TypeScript · Leaflet · Groq (optional)</b></p>
+<p><a href="https://leo-ai-pi.vercel.app/">🌐 Website</a> · <a href="https://github.com/svsramakrishnanaidu-rgb/leo-ai">📁 Source code</a></p>
+<p><sub>Independent browser-local prototype; not a government reporting platform.</sub></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/svsramakrishnanaidu-rgb/fin-tracker"><img width="100%" alt="FinTrack" src="https://raw.githubusercontent.com/svsramakrishnanaidu-rgb/fin-tracker/main/docs/fintrack-banner.svg"/></a>
+<h3>FinTrack · Premium expense tracker</h3>
+<p>Offline-first Flutter application for capturing expenses, exploring spending by category, and viewing insights in light and AMOLED-inspired dark themes.</p>
+<p><b>Flutter · Dart · Provider · FL Chart</b></p>
+<p><a href="https://github.com/svsramakrishnanaidu-rgb/fin-tracker#app-preview">📱 App screenshots</a> · <a href="https://github.com/svsramakrishnanaidu-rgb/fin-tracker">📁 Source code</a></p>
+<p><sub>No verified publicly deployed FinTrack website yet; local Flutter web development is supported.</sub></p>
+</td>
+</tr>
+</table>
 
-A multilingual, AI-assisted prototype that helps people categorize civic problems, prepare structured reports, and explore issues on a map.
+### 📚 BSR Learning
 
-**Highlights:** civic issue classification, conversational assistance, interactive maps, dashboard, and English/Telugu/Hindi support.
+My [BSR Learning](https://github.com/svsramakrishnanaidu-rgb/bsr-learning) repository documents a learning roadmap and links to my projects. It's a work-in-progress workspace, not a completed tutorial collection.
 
-**Built with:** React · TypeScript · Tailwind CSS · Vite · Leaflet · Recharts
+## 🌐 Additional websites and previews
 
-> Independent prototype: reports are stored locally in the browser, not submitted to government services.
+These website links were previously supplied by me as part of my project work. Their source code is **not currently in the GitHub repositories connected to this account**.
 
-### 📚 [BSR Learning](https://github.com/svsramakrishnanaidu-rgb/bsr-learning)
+| Project | Focus | Open |
+| --- | --- | --- |
+| 🌾 **DHRUVA AI** | Smart agriculture guidance and farming tools | [Visit website](https://dhruvaai.lovable.app/) |
+| 🧭 **GuideMaster AI** | AI-oriented travel and itinerary planning | [Visit website](https://journey-mood-ai.lovable.app/) |
+| 🌱 **Agro Visions 3D** | Interactive agricultural advisory experience | [Open project preview](https://preview--agro-visions-3d.lovable.app/) |
 
-A growing space for learning notes, development exercises and documented experiments.
+The Agro Visions URL is a preview link and may be temporary or access-restricted. Current availability of external deployments has not been independently verified.
 
-## What I'm focusing on
+## 🔬 Ideas I'm exploring
 
-- **Responsible AI:** Useful and secure AI features with clear limitations.
-- **Clean frontend:** Responsive applications with maintainable code.
-- **Accessible experiences:** Design that works for more people.
-- **Continuous learning:** Build, test, document, and improve.
+**AyurOcto** — a traditional healthcare and wellness education concept exploring Ayurveda, herbs, yoga, nutrition and thoughtful visual design. No verified public deployment or connected source repository is currently available.
+
+## 📌 My approach
+
+**Build something useful.** Understand the problem before designing the solution.
+
+**Make it clear.** Good documentation, accessible design and honest product descriptions matter.
+
+**Keep improving.** Prefer meaningful, tested progress over unnecessary commits or inflated statistics.
 
 ---
 
 <div align="center">
 
-**Build with purpose. Design with empathy. Keep learning.**
+### Let's connect and build meaningful things.
 
-[View my repositories](https://github.com/svsramakrishnanaidu-rgb?tab=repositories)
+<a href="https://www.linkedin.com/in/s-v-s-ramakrishna-naidu-39611a444/">LinkedIn</a> · <a href="https://github.com/svsramakrishnanaidu-rgb">GitHub</a> · <a href="https://github.com/svsramakrishnanaidu-rgb/bsr-learning/blob/main/PROJECTS.md">Complete project portfolio</a>
+
+<sub>AI • Software • Digital Innovation</sub>
 
 </div>
