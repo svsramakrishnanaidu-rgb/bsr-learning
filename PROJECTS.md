@@ -14,6 +14,22 @@ A curated directory of **software, AI and digital experiences** associated with 
 
 ## Published source-code repositories
 
+### 00 · LEO 2.0 AI — User-authorized personal assistant
+
+<img alt="LEO 2.0 AI engineering banner" src="https://raw.githubusercontent.com/svsramakrishnanaidu-rgb/leo2.0ai/main/docs/assets/leo-2-banner.svg" width="100%"/>
+
+**Problem:** Build a useful personal AI assistant without pretending it can access all devices, apps, private data or APIs.
+
+**Approach:** A source-backed system architecture, Android permission model, provider-verification strategy, voice/multimodal designs, secure workflow contracts and an isolated testable policy reference.
+
+**Technology plan:** Kotlin / Jetpack Compose · web dashboard · Python / FastAPI · PostgreSQL · typed provider adapters · GitHub Actions.
+
+**Status:** **Engineering specification and starter tests**, not a deployed Android or web AI application; no verified hosted demo.
+
+[**Repository →**](https://github.com/svsramakrishnanaidu-rgb/leo2.0ai) · [Architecture →](https://github.com/svsramakrishnanaidu-rgb/leo2.0ai/blob/main/docs/ARCHITECTURE.md) · [Workflows →](https://github.com/svsramakrishnanaidu-rgb/leo2.0ai/blob/main/docs/WORKFLOWS.md)
+
+---
+
 ### 01 · LEO.AI — Civic assistance
 
 <img alt="LEO.AI project banner" src="https://raw.githubusercontent.com/svsramakrishnanaidu-rgb/leo-ai/main/docs/assets/leo-banner.svg" width="100%"/>
