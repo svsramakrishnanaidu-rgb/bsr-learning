@@ -62,6 +62,14 @@
 </tr>
 </table>
 
+### 🧠 LEO 2.0 AI — Engineering workspace
+
+A separate planned **permission-based multimodal AI assistant**. Its repository now includes structured system architecture, UI/UX design, Android consent models, APIs/knowledge strategy, automation workflows and a reference consent-policy test suite.
+
+[**Explore LEO 2.0 →**](https://github.com/svsramakrishnanaidu-rgb/leo2.0ai) · [Architecture →](https://github.com/svsramakrishnanaidu-rgb/leo2.0ai/blob/main/docs/ARCHITECTURE.md)
+
+*Development specification and scaffolding; not a deployed autonomous AI application.*
+
 ### 📚 BSR Learning
 
 My [BSR Learning](https://github.com/svsramakrishnanaidu-rgb/bsr-learning) repository documents a learning roadmap and links to my projects. It's a work-in-progress workspace, not a completed tutorial collection.
