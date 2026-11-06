@@ -19,6 +19,7 @@ This repository is a **work-in-progress learning workspace** maintained by **San
 
 | Project | Focus | Website / preview | Source |
 | --- | --- | --- | --- |
+| **LEO 2.0 AI** | Consent-based personal AI assistant (engineering specification + policy reference) | [Architecture + workflows](https://github.com/svsramakrishnanaidu-rgb/leo2.0ai) *(not deployed)* | [Repository](https://github.com/svsramakrishnanaidu-rgb/leo2.0ai) |
 | **LEO.AI** | AI-assisted civic reporting prototype | [Visit website](https://leo-ai-pi.vercel.app/) | [Repository](https://github.com/svsramakrishnanaidu-rgb/leo-ai) |
 | **FinTrack** | Flutter offline expense tracker | [UI screenshots](https://github.com/svsramakrishnanaidu-rgb/fin-tracker#app-preview) *(no verified hosted site)* | [Repository](https://github.com/svsramakrishnanaidu-rgb/fin-tracker) |
 | **DHRUVA AI** | Agriculture-focused AI guidance | [Visit website](https://dhruvaai.lovable.app/) | Not in connected repositories |
