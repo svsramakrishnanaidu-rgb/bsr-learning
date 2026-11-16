@@ -74,13 +74,18 @@ A separate planned **permission-based multimodal AI assistant**. Its repository 
 
 My [BSR Learning](https://github.com/svsramakrishnanaidu-rgb/bsr-learning) repository documents a learning roadmap and links to my projects. It's a work-in-progress workspace, not a completed tutorial collection.
 
+### 🌾 DHRUVA AI — Agricultural advisory
+
+React and TanStack Start application exploring crop and district information, weather, markets, calculators and other agricultural tools. Application source is available; external integrations and agronomic accuracy are not independently validated.
+
+[**Source code →**](https://github.com/svsramakrishnanaidu-rgb/dhruvaai) · [Website →](https://dhruvaai.lovable.app/)
+
 ## 🌐 Additional websites and previews
 
 These website links were previously supplied by me as part of my project work. Their source code is **not currently in the GitHub repositories connected to this account**.
 
 | Project | Focus | Open |
 | --- | --- | --- |
-| 🌾 **DHRUVA AI** | Smart agriculture guidance and farming tools | [Visit website](https://dhruvaai.lovable.app/) |
 | 🧭 **GuideMaster AI** | AI-oriented travel and itinerary planning | [Visit website](https://journey-mood-ai.lovable.app/) |
 | 🌱 **Agro Visions 3D** | Interactive agricultural advisory experience | [Open project preview](https://preview--agro-visions-3d.lovable.app/) |
 
