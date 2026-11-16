@@ -76,13 +76,26 @@ A curated directory of **software, AI and digital experiences** associated with 
 
 ---
 
+### 04 · DHRUVA AI — Agricultural advisory
+
+**Problem:** Agricultural information is often spread across crop guides, weather services, market data and local advisory resources.
+
+**Approach:** A React/TanStack Start application with crop and district routes, weather and market interfaces, calculators, rotation and disease information.
+
+**Technology:** React · TypeScript · TanStack Start · Tailwind CSS · Vite.
+
+**Status:** Application source is available; external integrations, agronomic accuracy and live site operation have not been independently validated.
+
+[**Source code →**](https://github.com/svsramakrishnanaidu-rgb/dhruvaai) · [Website →](https://dhruvaai.lovable.app/)
+
+---
+
 ## Additional web projects
 
 These are **user-provided project website / preview links**. Their source repositories are not present among the currently connected GitHub repositories, so source-code links are intentionally not invented.
 
 | Project | Focus | Website |
 | --- | --- | --- |
-| **DHRUVA AI — Smart Agriculture** | An agricultural information and AI-guidance experience exploring crops, weather, markets and practical farmer tools | [Visit DHRUVA AI →](https://dhruvaai.lovable.app/) |
 | **GuideMaster AI — AI Travel Planner** | Travel inspiration and itinerary-planning experience with AI-focused guidance | [Visit GuideMaster AI →](https://journey-mood-ai.lovable.app/) |
 | **Agro Visions 3D** | Visually driven agricultural advisory concept with crop exploration and interactive design | [Open project preview →](https://preview--agro-visions-3d.lovable.app/) |
 
