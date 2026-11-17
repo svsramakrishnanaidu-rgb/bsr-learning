@@ -80,6 +80,14 @@ React and TanStack Start application exploring crop and district information, we
 
 [**Source code →**](https://github.com/svsramakrishnanaidu-rgb/dhruvaai) · [Website →](https://dhruvaai.lovable.app/)
 
+### LIMITLESS — Health education and wellness
+
+Next.js and React application with traditional healthcare learning, plant safety information, wellness logging and server-side AI adapters. Educational software, not a medical service; current hosting and provider availability are not verified.
+
+[**Source code →**](https://github.com/svsramakrishnanaidu-rgb/limitless) · [Related source](https://github.com/svsramakrishnanaidu-rgb/limitless.ai)
+
+Both links refer to related implementations of the same project.
+
 ## 🌐 Additional websites and previews
 
 These website links were previously supplied by me as part of my project work. Their source code is **not currently in the GitHub repositories connected to this account**.
