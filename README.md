@@ -23,6 +23,7 @@ This repository is a **work-in-progress learning workspace** maintained by **San
 | **LEO.AI** | AI-assisted civic reporting prototype | [Visit website](https://leo-ai-pi.vercel.app/) | [Repository](https://github.com/svsramakrishnanaidu-rgb/leo-ai) |
 | **FinTrack** | Flutter offline expense tracker | [UI screenshots](https://github.com/svsramakrishnanaidu-rgb/fin-tracker#app-preview) *(no verified hosted site)* | [Repository](https://github.com/svsramakrishnanaidu-rgb/fin-tracker) |
 | **DHRUVA AI** | Agriculture-focused AI guidance | [Visit website](https://dhruvaai.lovable.app/) | [Repository](https://github.com/svsramakrishnanaidu-rgb/dhruvaai) |
+| **LIMITLESS** | Health education, wellness and server-side AI | [Dashboard preview](https://github.com/svsramakrishnanaidu-rgb/limitless/blob/main/preview-dashboard-full.png) | [Repository](https://github.com/svsramakrishnanaidu-rgb/limitless) · [Related source](https://github.com/svsramakrishnanaidu-rgb/limitless.ai) |
 | **GuideMaster AI** | AI-focused travel planning | [Visit website](https://journey-mood-ai.lovable.app/) | Not in connected repositories |
 | **Agro Visions 3D** | Interactive agriculture advisory concept | [Preview website](https://preview--agro-visions-3d.lovable.app/) | Not in connected repositories |
 
@@ -38,6 +39,7 @@ This repository is a **work-in-progress learning workspace** maintained by **San
 | FinTrack | [Screenshot gallery](https://github.com/svsramakrishnanaidu-rgb/fin-tracker#app-preview) | Flutter source, unit/widget tests and quality workflow |
 | LEO 2.0 AI | [Implementation status](https://github.com/svsramakrishnanaidu-rgb/leo2.0ai/blob/main/docs/STATUS.md) | Python policy reference and specifications |
 | DHRUVA AI | [Source repository](https://github.com/svsramakrishnanaidu-rgb/dhruvaai) | React/TanStack agricultural advisory application |
+| LIMITLESS | [Source repository](https://github.com/svsramakrishnanaidu-rgb/limitless.ai) | Next.js application, provider adapters and Vitest tests |
 
 The portfolio links intentionally distinguish application code, prototype demonstrations and engineering specifications. Review actual source and test results rather than treating planned features as shipped functionality.
 
