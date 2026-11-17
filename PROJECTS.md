@@ -90,6 +90,20 @@ A curated directory of **software, AI and digital experiences** associated with 
 
 ---
 
+### 05 · LIMITLESS — Health education and wellness
+
+**Purpose:** An integrated health-education and personal wellness application exploring traditional care, medicinal-plant safety, nutrition, yoga, device-local health records and AI-assisted learning.
+
+**Technology:** Next.js · React · TypeScript · Tailwind CSS · Vitest · server-side multi-provider AI adapters.
+
+**Current boundaries:** Educational software, not a clinical or emergency response service. External AI requires valid server-side credentials; local data is not encrypted by the application. Production availability has not been independently verified.
+
+[**LIMITLESS source →**](https://github.com/svsramakrishnanaidu-rgb/limitless) · [**Related LIMITLESS.AI source →**](https://github.com/svsramakrishnanaidu-rgb/limitless.ai) · [Dashboard previews](https://github.com/svsramakrishnanaidu-rgb/limitless/blob/main/preview-dashboard-full.png)
+
+Both repositories contain related implementations of the same application. They are listed together rather than counted as distinct products.
+
+---
+
 ## Additional web projects
 
 These are **user-provided project website / preview links**. Their source repositories are not present among the currently connected GitHub repositories, so source-code links are intentionally not invented.
